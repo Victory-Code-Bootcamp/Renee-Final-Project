@@ -11,5 +11,20 @@ body {
     width: 60px;
     text-decoration: none;
     margin: 5px 80px;
-    
+
+}
+.fname-input {
+    margin-left: 9px;
+}
+.lname-input {
+    margin-left: 11px;
+    margin-top: 5px;
+}
+.email-input {
+    margin-left: 43px;
+    margin-top: 5px;
+}
+button {
+    margin-left: 143px;
+    margin-top: 5px;
 }
