@@ -1,9 +1,27 @@
 body {
-    background-color: bisque;
+    background-color: bisque; 
+    text-align: center;
+
+}
+header {background-color: black ;
+    text-align: center;
+
+}
+.footer {
+    background-color: black ;
+    text-align: center;
+    
+}
+a.nav-bar {color: rgb(240, 69, 217);
+    text-align: center;
+
 }
 .fa-linkedin {
     background: #007bb5; 
     color: white; 
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    align-content: center;
 }
 .fa-brand {
     padding: 20px;
@@ -27,4 +45,12 @@ body {
 button {
     margin-left: 143px;
     margin-top: 5px;
+}
+.logo {
+    width: 150px;
+    height: auto;
+    text-align: left;   
+}
+.section { align-content: center;
+    
 }
