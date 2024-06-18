@@ -10,10 +10,12 @@ header {background-color: black ;
 .footer {
     background-color: black ;
     text-align: center;
+    margin-top: 15rem;
     
 }
 a.nav-bar {color: rgb(240, 69, 217);
     text-align: center;
+    padding: 2rem;
 
 }
 .fa-linkedin {
@@ -43,14 +45,23 @@ a.nav-bar {color: rgb(240, 69, 217);
     margin-top: 5px;
 }
 button {
-    margin-left: 143px;
-    margin-top: 5px;
+    margin-left: 80px;
+    margin-top: 1rem;
 }
 .logo {
     width: 150px;
     height: auto;
     text-align: left;   
 }
-.section { align-content: center;
-    
+.email-me {
+    margin-top: 10px;
+    margin-left: 80px;
+}    
+form {
+    margin-bottom: 2rem;
+}
+.social-icon {
+    font-size: 2rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
 }
